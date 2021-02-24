@@ -1,3 +1,5 @@
 # cfortichj's personal space
 
-## This is where I'll keep track of all of the stuff I don't want to forget
+I will keep track of things I need to remember. Please don't hesitate to correct me if you thing I'm wrong
+
+[`gpg`](gpg/gpg.md)
